@@ -46,6 +46,3 @@ The dataset contains customer-level information such as:
 - **Language**: Python  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Environment**: Jupyter Notebook  
-
-   git clone https://github.com/yourusername/bank-customer-segmentation.git
-   cd bank-customer-segmentation
