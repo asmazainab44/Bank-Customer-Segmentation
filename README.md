@@ -16,7 +16,7 @@ The dataset contains customer-level information such as:
 
 *(Dataset source: internal bank records / public dataset used for learning — depending on context)*
 
-## ⚙Methodology
+## Methodology
 1. **Data Preprocessing**
    - Handling missing values  
    - Encoding categorical variables  
